@@ -1,2 +1,0 @@
-# LibrasDimDim
-Checkpoint 5
