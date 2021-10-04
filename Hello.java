@@ -1,6 +1,7 @@
-public class MostrarNome  {     
- public  static void main(String[] args) {
-  String nome = “Steve Jobs”;
-  System.out.printf(“Nome.: %s”,nome);
- }
-}
+public class Hello{
+ 	public static void main (String []args){
+ 	for(int i=1;i<=10;i++){
+ 	System.out.println("Hello World "+i);
+ 	}
+ 	}
+ 	}
